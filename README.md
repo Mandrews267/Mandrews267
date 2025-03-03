@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Active directory Installation and Setup](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Elastic Stack SIEM Lab</b>
+  - [Elastic Stack SIEM Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Virtual Machine Setup</b>
   - [Intallation of Type II Hypervisor and Virtual Machines]<!-- add link to project material in Github -->
 - <b>Static Web Page Design (HTML, CSS)</b>
