@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Elastic Stack SIEM Lab</b>
-  - [Elastic Stack SIEM Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Elastic Stack SIEM Lab](https://github.com/Mandrews267/ElasticSIEMLab)
 - <b>Virtual Machine Setup</b>
   - [Intallation of Type II Hypervisor and Virtual Machines]<!-- add link to project material in Github -->
 - <b>Static Web Page Design (HTML, CSS)</b>
