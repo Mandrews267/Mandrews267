@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/Mandrews267">Aspiring Cybersecurity Professional </a><a href="https://www.linkedin.com/in/michael-andrews-119622123">& Network Manager</a>
+<h1>Hi, I'm Michael! <br/><a href="https://github.com/Mandrews267">Aspiring Cybersecurity</a> & <a href="https://www.linkedin.com/in/michael-andrews-119622123">IT Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
