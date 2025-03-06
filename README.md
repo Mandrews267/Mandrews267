@@ -4,11 +4,13 @@
 
 - <b>Elastic Stack SIEM Lab</b>
   - [Elastic Stack SIEM Lab](https://github.com/Mandrews267/ElasticSIEMLab)
-- <b>Virtual Machine Setup</b>
-  - [Intallation of Type II Hypervisor and Virtual Machines]<!-- add link to project material in Github -->
-- <b>Static Web Page Design (HTML, CSS)</b>
-  - [Multi-page Static Web Site Design](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-- <!--<b>PowerShell</b> -->
+- <b>Active Directory Home Lab Using Virtual Box</b>
+  - [Active Directory Home Lab]<!-- add link to project material in Github -->
+
+
+<!-- - <b>Static Web Page Design (HTML, CSS)</b> -->
+<!-- - [Multi-page Static Web Site Design](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) -->
+<!--<b>PowerShell</b> -->
 <!--   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab) -->
 <!--   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell) -->
 <!--   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS) -->
@@ -21,6 +23,7 @@
 <!--   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) -->
 
 <h2>📺 Education and Certifications</h2>
+- <b>February 2025: CompTIA Security+ Certification</b>
 
 <!-- - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) -->
 <!-- - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU) -->
