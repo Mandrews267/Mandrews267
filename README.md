@@ -1,7 +1,7 @@
 <h1>Hi, I'm Michael! <br/><a href="https://github.com/Mandrews267">Aspiring Cybersecurity</a> & <a href="https://www.linkedin.com/in/michael-andrews-119622123">IT Professional</a></h1>
 
 <br>
-<p>Welcome to my GetHub Portfolio.  Below are projects, and labs I have completed over the last few weeks and months in my journey to demonstate proficency in Cybersecurity.  My primay interest is to create an opportunity for myself and attain an opportunity to become a Securty Specialist or IT Support presently, and growing into new opportunities over time.  I enjoy the unwritten requirement of being a lifelong learner that is necessary in becoming an effective technologist.</p>
+<p>Welcome to my GitHub Portfolio.  Below are projects, and labs I have completed over the last few weeks and months in my journey to demonstate proficency in Cybersecurity.  My primay interest is to create an opportunity for myself and attain an opportunity to become a Securty Specialist or IT Support presently, and growing into new opportunities over time.  I enjoy the unwritten requirement of being a lifelong learner that is necessary in becoming an effective technologist.</p>
 <br>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
