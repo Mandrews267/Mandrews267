@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/Mandrews267">Aspiring Cybersecurity</a> & <a href="https://www.linkedin.com/in/michael-andrews-119622123">IT Professional</a></h1>
+# Hi, I'm Michael! <br/><a href="https://github.com/Mandrews267">Aspiring Cybersecurity</a> & <a href="https://www.linkedin.com/in/michael-andrews-119622123">IT Professional</a>
 
 <br>
 <p>Welcome to my GitHub Portfolio.  Below are projects and labs I have completed over the last few weeks and months in my journey to demonstate proficency in Cybersecurity.  My primay interest is to create an opportunity for myself and attain an opportunity to become a Securty Specialist or IT Support presently, and growing into new opportunities over time.  I enjoy the unwritten requirement of being a lifelong learner that is necessary in becoming an effective technologist.</p>
@@ -7,8 +7,8 @@
 
 - <b>Elastic Stack SIEM Lab</b>
   - [Elastic Stack SIEM Lab](https://github.com/Mandrews267/ElasticSIEMLab)
-- <b>Azure-Based Virtual Machine Honeypot to Capture Failed Login Attempts and Visually Map Attackers Orignating Locations</b>
-  - [Azure-Based VM Honeypot](https://github.com/Mandrews267/Cloud-Honeypot)
+- <b>Azure-Based Virtual Machine Honeypot</b>
+  - [Azure-Based VM Honeypot](https://github.com/Mandrews267/Microsoft-Azure-Honeypot-w-SIEM)  
 <!-- - <b>Active Directory Home Lab Using Virtual Box</b> -->
 <!--  - [Active Directory Home Lab]<!-- add link to project material in Github -->
 
