@@ -8,7 +8,9 @@
 - <b>Elastic Stack SIEM Lab</b>
   - [Elastic Stack SIEM Lab](https://github.com/Mandrews267/ElasticSIEMLab)
 - <b>Azure-Based Virtual Machine Honeypot</b>
-  - [Azure-Based VM Honeypot](https://github.com/Mandrews267/Microsoft-Azure-Honeypot-w-SIEM)  
+  - [Azure-Based VM Honeypot](https://github.com/Mandrews267/Microsoft-Azure-Honeypot-w-SIEM)
+- <b>Password Manager</b>
+  - [Python Password Manager Application](https://github.com/Mandrews267/Password-Manager)
 <!-- - <b>Active Directory Home Lab Using Virtual Box</b> -->
 <!--  - [Active Directory Home Lab]<!-- add link to project material in Github -->
 
