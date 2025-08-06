@@ -3,7 +3,8 @@
 <br>
 <p>Welcome to my GitHub Portfolio.  Below are projects and labs I have completed over the last few weeks and months in my journey to demonstate proficency in Cybersecurity.  My primay interest is to create an opportunity for myself and attain an opportunity to become a Securty Specialist or IT Support presently, and growing into new opportunities over time.  I enjoy the unwritten requirement of being a lifelong learner that is necessary in becoming an effective technologist.</p>
 <br>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+## 🔒Cybersecurity Projects:
 
 - <b>Elastic Stack SIEM Lab</b>
   - [Elastic Stack SIEM Lab](https://github.com/Mandrews267/ElasticSIEMLab)
@@ -14,6 +15,10 @@
 <!-- - <b>Active Directory Home Lab Using Virtual Box</b> -->
 <!--  - [Active Directory Home Lab]<!-- add link to project material in Github -->
 
+## 🖥️Other Projects:
+
+- **Python encoded game "Alien Invasion"**
+  - [Alien Invasion](
 
 <!-- - <b>Static Web Page Design (HTML, CSS)</b> -->
 <!-- - [Multi-page Static Web Site Design](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) -->
