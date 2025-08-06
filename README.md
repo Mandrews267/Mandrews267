@@ -18,7 +18,7 @@
 ## 🖥️Other Projects:
 
 - **Python encoded game "Alien Invasion"**
-  - [Alien Invasion](
+  - [Alien Invasion](https://github.com/Mandrews267/Alien-Invasion)
 
 <!-- - <b>Static Web Page Design (HTML, CSS)</b> -->
 <!-- - [Multi-page Static Web Site Design](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) -->
